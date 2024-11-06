@@ -1,4 +1,4 @@
-# [Your Name] - GitHub Profile
+# [Sharanya Sandeep] - GitHub Profile
 
 **Motivated and quick-learning Computer Science student with a strong interest in backend development and programming. Proficient in Java, Python, and C, with a solid foundation in coding and problem-solving. Eager to apply skills and knowledge to develop efficient and scalable backend solutions.**
 
